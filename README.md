@@ -17,7 +17,7 @@
   <table>
     <tr>
       <td>
-<p align="center">check out my ata and pronouns page!
+<p align="center"> check out my ata and pronouns page!
       </td>
     </tr>
   </table>
