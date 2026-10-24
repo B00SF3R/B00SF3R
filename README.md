@@ -17,7 +17,7 @@
   <table>
     <tr>
       <td>
-your 3 wishes have NOT been granted lil genie <img width="20" height="20" alt="[https://64.media.tumblr.com/bf72cd2e71af501f1250376a289c4cc3/041dc98901e555f0-d0/s500x750/26e0095c27c375e29ffcc52e36baac8325a99f2e.pnj"/>
+your 3 wishes have NOT been granted lil genie  <img width="2048" height="1536" alt="tumblr" src="[https://64.media.tumblr.com/727042aa9edb3e174030197c016c91c9/06f20c239589879d-1e/s500x750/1290cbb511003560b0c93bd1d9bf51db0fe3ebc3.pnj" />]
       </td>
     </tr>
   </table>
