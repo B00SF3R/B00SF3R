@@ -10,8 +10,8 @@
   <img width="2048" height="1536" alt="boos" src="https://github.com/user-attachments/assets/ffe2bd90-738b-4fab-9c93-aeb06271493c" />
 
 
-<p align="center">your 3 wishes have NOT been granted lil genie ‎ꫂ᭪݁
-
+<p align="center">>${\textsf{\color{#9CAC55} your 3 wishes have NOT been granted lil genie ‎ꫂ᭪݁}}$
+ 
 
 
 <p align="center">${\textsf{\color{#FFFFF} Links!}}$
