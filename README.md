@@ -22,7 +22,8 @@
     </tr>
   </table>
 
+
+<p align="center">${\textsf{\color{#FFFFF} <u Links>}}$ 
 <a href="https://b00sf3r.atabook.org" target="_blank">Ata</a>
-<p align="center">${\textsf{\color{#FFFFF} Links}}$ 
-Visit [Ata](https://b00sf3r.atabook.org)
+
 
