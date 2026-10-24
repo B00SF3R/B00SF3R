@@ -31,4 +31,9 @@ your 3 wishes have NOT been granted lil genie ‎ꫂ᭪݁
 
 <img width="283" height="76" alt="Screenshot 2026-10-24 152951" src="https://github.com/user-attachments/assets/4214b4de-5235-4d0c-a7ab-e2927634383d" />
 
+<br>  
+  <table>
+    <tr>
+      <td>
+
 
