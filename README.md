@@ -24,6 +24,7 @@
 
 
 <p align="center">${\textsf{\color{#FFFFF} Links!}}$
-<a href="https://b00sf3r.atabook.org" target="_blank">ata</a>
+
+  <a href="https://b00sf3r.atabook.org" target="_blank">ata</a>  <a href="https://en.pronouns.page/@kayccxi" target="_blank">prnspage</a>
 
 
