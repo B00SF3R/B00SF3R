@@ -23,4 +23,4 @@
   </table>
 
 <p align="center">${\textsf{\color{#FFFFF} Links}}$ 
-[prnspage](https://en.pronouns.page/@kayccxi)
+(**ata**)[https://b00sf3r.atabook.org/]
