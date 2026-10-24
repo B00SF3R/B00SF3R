@@ -17,7 +17,7 @@
 <p align="center">${\textsf{\color{#FFFFF} Links!}}$
   
 
-<p align="center"><a href="https://b00sf3r.atabook.org" target="_blank">ata</a>  <a href="https://en.pronouns.page/@kayccxi" target="_blank">prns</a>
+<p align="center"><a href="https://b00sf3r.atabook.org" target="_blank">ata</a>  <a href="https://en.pronouns.page/@kayccxi" target="_blank">prns</a> <a href="https://b00sf3r.straw.page" target="_blank">sp</a>
 
 
 <p align="center"><img width="283" height="76" alt="Screenshot 2026-10-24 152951" src="https://github.com/user-attachments/assets/4214b4de-5235-4d0c-a7ab-e2927634383d" />
