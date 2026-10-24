@@ -17,7 +17,7 @@
   <table>
     <tr>
       <td>
-<p align="center"> check out my ata and pronouns page!
+your 3 wishes have NOT been granted lil genie
       </td>
     </tr>
   </table>
