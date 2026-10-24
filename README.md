@@ -1,16 +1,26 @@
-## Hi there 👋
+<img width="283" height="76" alt="Screenshot 2026-10-24 152951" src="https://github.com/user-attachments/assets/4214b4de-5235-4d0c-a7ab-e2927634383d" />
 
-<!--
-**B00SF3R/B00SF3R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>  
+  <table>
+    <tr>
+      <td>
+     with the power of..friendship!..right? <img width="20" height="20" alt="tumblr_7da37b542428615f4911f4811a73963b_e7aca092_75" src="https://github.com/user-attachments/assets/24efef17-8307-45f8-a3ad-a35cc7b1e08f" />
+      </td>
+    </tr>
+  </table>
 
-Here are some ideas to get you started:
+  <p align="center">${\textsf{\color{#9CAC55} i'd rate it from like 6 to 7!!!!}}$ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img width="2048" height="1536" alt="boos" src="https://github.com/user-attachments/assets/ffe2bd90-738b-4fab-9c93-aeb06271493c" />
+
+  <br>  
+  <table>
+    <tr>
+      <td>
+     check out my ata and pronouns page!
+      </td>
+    </tr>
+  </table>
+
+<p align="center">${\textsf{\color{#FFFFF} Links}}$ 
+[ata](https://b00sf3r.atabook.org/) [prnspge](https://en.pronouns.page/@kayccxi)
