@@ -22,4 +22,4 @@
 
 <p align="center"><img width="283" height="76" alt="Screenshot 2026-10-24 152951" src="https://github.com/user-attachments/assets/4214b4de-5235-4d0c-a7ab-e2927634383d" />
 
-${\textsf{\color{#9CAC55}friendship!!}}$
+${\textsf{\color{#ec95d7}friendship!!}}$
