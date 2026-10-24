@@ -23,7 +23,7 @@
   </table>
 
 
-<ins><p align="center">${\textsf{\color{#FFFFF} Links!}}$</ins>
+<ins> <p align="center">${\textsf{\color{#FFFFF} Links!}}$<ins>
 <a href="https://b00sf3r.atabook.org" target="_blank">Ata</a>
 
 
