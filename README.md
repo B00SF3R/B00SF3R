@@ -1,5 +1,5 @@
 
-align="center"><img width="283" height="76" alt="Screenshot 2026-10-24 152951" src="https://github.com/user-attachments/assets/4214b4de-5235-4d0c-a7ab-e2927634383d" />
+<img width="283" height="76" alt="Screenshot 2026-10-24 152951" src="https://github.com/user-attachments/assets/4214b4de-5235-4d0c-a7ab-e2927634383d" />
 
 <br>  
   <table>
@@ -18,7 +18,7 @@ align="center"><img width="283" height="76" alt="Screenshot 2026-10-24 152951" s
   <table>
     <tr>
       <td>
-your 3 wishes have NOT been granted lil genie ‎ꫂ᭪݁
+<p align="center">your 3 wishes have NOT been granted lil genie ‎ꫂ᭪݁
       </td>
     </tr>
   </table>
@@ -34,7 +34,7 @@ your 3 wishes have NOT been granted lil genie ‎ꫂ᭪݁
       </td>
     </tr>
   </table>
-  
-align="center"><img width="283" height="76" alt="Screenshot 2026-10-24 152951" src="https://github.com/user-attachments/assets/4214b4de-5235-4d0c-a7ab-e2927634383d" />
+
+<img width="283" height="76" alt="Screenshot 2026-10-24 152951" src="https://github.com/user-attachments/assets/4214b4de-5235-4d0c-a7ab-e2927634383d" />
 
 
