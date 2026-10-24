@@ -5,7 +5,7 @@
   <table>
     <tr>
       <td>
-     with the power of..friendship!..right? <img width="20" height="20" alt="tumblr_7da37b542428615f4911f4811a73963b_e7aca092_75" src="https://github.com/user-attachments/assets/24efef17-8307-45f8-a3ad-a35cc7b1e08f" />
+<p align="center">with the power of..friendship!..right? <img width="20" height="20" alt="tumblr_7da37b542428615f4911f4811a73963b_e7aca092_75" src="https://github.com/user-attachments/assets/24efef17-8307-45f8-a3ad-a35cc7b1e08f" />
       </td>
     </tr>
   </table>
